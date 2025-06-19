@@ -5,3 +5,6 @@ heloo (hehe)
 bye
 tataaa
 kk 
+
+
+just added index2.html and test
